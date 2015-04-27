@@ -48,7 +48,7 @@
 
     Private Sub AddItemsToList(ByVal arrayList() As String)
         For Each strName As String In arrayList
-            lstFriends.Items.Add(strName)
+            lstFriends.Items.Add("[" & strName & "]")
         Next
     End Sub
 
@@ -81,6 +81,13 @@
     Private Sub btnInitializingArraysWithValues_Click(sender As Object, e As EventArgs) Handles btnInitializingArraysWithValues.Click
         ClearList()
         Dim strMyFriends() As String = {"Elaine", "Richard", "Debra", "Wendy", "Harrier"}
+
+        ReDim Preserve strMyFriends(6)
+        strMyFriends(5) = "Lane"
+        strMyFriends(6) = "Joel"
         AddItemsToList(strMyFriends)
+
+
+
     End Sub
 End Class
