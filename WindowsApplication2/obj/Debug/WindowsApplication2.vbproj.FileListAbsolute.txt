@@ -1,0 +1,14 @@
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Mahikero\Documents\Workspaces\Test\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Mahikero\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Mahikero\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Mahikero\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Mahikero\Documents\Visual Studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
